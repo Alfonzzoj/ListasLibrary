@@ -2,7 +2,7 @@
 
 *Libreria de listas implementadas en C.*
 
-## Estructura de el nodo de la lista 
+## Estructura del nodo de la lista 
 ```c
 typedef struct node
 {
