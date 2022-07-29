@@ -15,7 +15,7 @@ typedef struct node
 Dividiendose este en 
 
  - **Nombre:** Elemento de tipo char[20] para guardar cadenas de texto
- - **Valor:** Elemento de tipo inr, para guardar numeros 
+ - **Valor:** Elemento de tipo int, para guardar numeros 
  - **Next:** Direccion del proximo nodo 
 
 ```mermaid
