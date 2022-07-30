@@ -1,3 +1,6 @@
+#ifndef _LIBRERIA
+#define _LIBRERIA
+
 typedef struct node
 {
   char name[20];
@@ -33,3 +36,6 @@ Node *copy(Node *listp);
 Node *conc(Node *listp, Node *listp2);
 // pausar: detiene la pantalla 
 void pausar();
+
+#include  "lista.c"
+#endif

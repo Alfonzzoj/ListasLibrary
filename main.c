@@ -8,6 +8,7 @@ int op=1, valor;
 char nombre[20];
 Node *newp, *listp, *listp2, *listp3;
 
+// Ejemplo de progragama principal para usar la lista
 
 int menu(){
       int op;
