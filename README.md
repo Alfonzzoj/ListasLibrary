@@ -2,6 +2,19 @@
 
 *Libreria de listas implementadas en C.*
 
+
+ - _Linux_
+
+```bash
+gcc main.c -o nombrePrograma && nombrePrograma
+```
+ - _Windows_
+
+```bash
+gcc .\main.c -o nombrePrograma ; .\nombrePrograma
+```
+
+
 ## Estructura del nodo de la lista 
 ```c
 typedef struct node
