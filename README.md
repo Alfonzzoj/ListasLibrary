@@ -1,7 +1,8 @@
-# Listas .h
+# Listas .h 📚
 
 *Libreria de listas implementadas en C.*
 
+_Instrucciones para ejecutar_
 
  - _Linux_
 
