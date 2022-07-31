@@ -170,8 +170,6 @@ is_empty(Node *listp): retorna 1 si esta vacia,
 
 ## Autores ✒️
 
-_Aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 * **Jesús Alfonzo** - *Programación* - [Alfonzzoj](https://github.com/Alfonzzoj)
 
  
