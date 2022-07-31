@@ -1,4 +1,4 @@
-# Listas .h 📚
+# Listas library 📚
 
 *Libreria de listas implementadas en C.*
 
@@ -167,5 +167,11 @@ ocurrencia de name y retorna la nueva lista
 is_empty(Node *listp): retorna 1 si esta vacia, 
 0 en caso contrario
 ``` 
+
+## Autores ✒️
+
+_Aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
+* **Jesús Alfonzo** - *Programación* - [Alfonzzoj](https://github.com/Alfonzzoj)
 
  
